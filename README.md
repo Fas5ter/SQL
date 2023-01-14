@@ -1,5 +1,6 @@
 # SQL
 ## SQL (Structured Query Language) es un Lenguaje de bases de datos relacionales que permite extraer de las tablas de datos una serie de registros con criterios de selección, ordenación y cómputo, o bien permite actualizar, eliminar o agregar nuevos registros.
+![sql_image](https://user-images.githubusercontent.com/96441511/212459053-203e9a90-29c7-4972-8e6e-f6058d1a272a.png)
 
 Aprende a manejar SQL con este repositorio con ayuda de DBeaver y XAMPP
 
